@@ -10,7 +10,7 @@ pip install "optimum[onnxruntime]" onnxruntime onnx diffusers transformers accel
 
 Export and quantize the ONNX model (one-time):
 python backend/tools/export_to_onnx.py --model_id runwayml/stable-diffusion-v1-5 --out_dir ./onnx-sd --quantize
-# set ONNX_MODEL_PATH=./onnx-sd in your .env
+
 
 
 Start backend:
