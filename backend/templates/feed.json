@@ -1,0 +1,12 @@
+{
+  "name": "feed",
+  "width": 1080,
+  "height": 1080,
+  "safe_zone_top": 120,
+  "safe_zone_bottom": 150,
+  "default_headline": {
+    "font_px": 22,
+    "color_rgb": [0, 0, 0],
+    "box": [50, 200, 800, 140]
+  }
+}

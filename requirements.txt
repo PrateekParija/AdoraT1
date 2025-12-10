@@ -1,0 +1,45 @@
+# Core
+fastapi
+uvicorn
+pydantic
+python-multipart
+Pillow
+python-dotenv
+requests
+
+# ML basic
+numpy
+opencv-python
+
+# OCR
+pytesseract
+
+# Background removal (optional)
+rembg
+
+# Detection (optional)
+ultralytics
+
+# DB
+sqlalchemy
+alembic
+
+# Frontend
+streamlit
+
+# Optional AI Models (only install if needed)
+diffusers
+transformers
+torch
+accelerate
+onnxruntime
+# For ONNX + Optimum route (recommended)
+optimum[onnxruntime]
+onnxruntime
+onnx
+onnxruntime-tools
+transformers
+diffusers
+
+# FastSD-CPU (if you want to try FastSD)
+# fastsdcpu  # (depends on project; may require manual clone & install)

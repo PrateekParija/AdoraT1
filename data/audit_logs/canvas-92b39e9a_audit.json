@@ -1,0 +1,17 @@
+{
+  "canvas_id": "canvas-92b39e9a",
+  "issues": [
+    {
+      "code": "SAFE_ZONE_TOP",
+      "message": "Text 'Available at Te...' is in top safe zone (<200px).",
+      "severity": "error"
+    },
+    {
+      "code": "FONT_TOO_SMALL",
+      "message": "Text 'Available at Te...' font 18px < 20px.",
+      "severity": "error"
+    }
+  ],
+  "applied_fixes": [],
+  "generated_at": "2025-12-10T19:52:20.013675"
+}

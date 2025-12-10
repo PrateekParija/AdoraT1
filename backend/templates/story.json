@@ -1,0 +1,12 @@
+{
+  "name": "story",
+  "width": 1080,
+  "height": 1920,
+  "safe_zone_top": 200,
+  "safe_zone_bottom": 250,
+  "default_headline": {
+    "font_px": 24,
+    "color_rgb": [0, 0, 0],
+    "box": [50, 320, 900, 120]
+  }
+}

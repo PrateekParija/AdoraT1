@@ -1,0 +1,12 @@
+{
+  "name": "banner",
+  "width": 1080,
+  "height": 450,
+  "safe_zone_top": 40,
+  "safe_zone_bottom": 40,
+  "default_headline": {
+    "font_px": 20,
+    "color_rgb": [0, 0, 0],
+    "box": [40, 120, 900, 180]
+  }
+}

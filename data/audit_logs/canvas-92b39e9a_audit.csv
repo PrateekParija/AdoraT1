@@ -1,0 +1,3 @@
+code,message,severity
+SAFE_ZONE_TOP,Text 'Available at Te...' is in top safe zone (<200px).,error
+FONT_TOO_SMALL,Text 'Available at Te...' font 18px < 20px.,error
